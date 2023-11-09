@@ -30,7 +30,7 @@ Si tienes alguna pregunta o necesitas asistencia, no dudes en visitar nuestra p�
 
 ---
 
-# Proyecto Increíble
+# Proyecto Gitea
 
 ¡Bienvenido al Proyecto Increíble! Este proyecto realiza cosas sorprendentes y te facilita la vida de maneras que ni siquiera te imaginas. 😎
 
@@ -43,13 +43,13 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local.
 1. Clona este repositorio a tu máquina local usando el siguiente comando:
 
     ```bash
-    git clone https://github.com/tu_usuario/proyecto-increible.git
+    git clone [https://github.com/tu_usuario/proyecto-increible.git](https://github.com/mmanuele2etravelsolutions/Gitea-e2e-mmanuel-full)
     ```
 
 2. Navega hasta el directorio del proyecto:
 
     ```bash
-    cd proyecto-increible
+    cd proyecto-Gitea
     ```
 
 3. Instala las dependencias:
