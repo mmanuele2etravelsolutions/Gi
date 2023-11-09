@@ -22,13 +22,9 @@ Aquí se encuentran algunos paneles con datos de uso de Gitea:
 
 ## Instrucciones de instalación
 
-### Requisitos previos
+### Descarga del Repositorio
 
-Asegúrate de tener instalados Docker y Docker Compose en tu sistema.
+Puedes descargar el repositorio ejecutando el siguiente comando en tu terminal:
 
-### Instalación
-
-1. Clona este repositorio:
-
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+```bash
+git clone https://github.com/tu-usuario/tu-repositorio.git
